@@ -1,0 +1,11 @@
+.favs {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.favs .tile {
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+}

@@ -1,0 +1,24 @@
+.big-image .img {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.big-image p {
+    font-size: 8px;
+}
+
+.big-image .controls {
+    max-width: 500px;
+}
+
+.big-image .controls button {
+    background: aqua;
+    border: none;
+    border-radius: 50%;
+    height: 5em;
+    width: 5em;
+}

@@ -1,0 +1,23 @@
+.App nav {
+    text-align: center;
+    padding: 2em;
+}
+
+.App nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.App nav ul li {
+    display: inline-block;
+}
+
+.App nav ul li a {
+    text-decoration: none;
+    padding: 1em 2em;
+}
+
+.App nav ul li a.active {
+    background: black;
+    color: white;
+}
